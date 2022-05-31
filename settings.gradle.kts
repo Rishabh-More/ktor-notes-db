@@ -1,0 +1,1 @@
+rootProject.name = "com.invizio.mongo.ktor-notes-db"
